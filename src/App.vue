@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view></router-view>
-    爬爬ffdfdgffd
+    爬爬ffdfdgffd你好你好
   </div>
 </template>
 
