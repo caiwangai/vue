@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view></router-view>
-     <div>sddsdsdsdsds</div>蔡万概司法解释大家看电视剧的伤口上的借款收到的山东
+     <div>sddsdsdsddsdsdsdsdsdssds</div>蔡万概司法解释大家看电视剧的伤口上的借款收到的山东
   </div>
 </template>
 
