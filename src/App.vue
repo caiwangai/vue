@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view></router-view>
+    爬爬
   </div>
 </template>
 
