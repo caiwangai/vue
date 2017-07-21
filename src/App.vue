@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view></router-view>
-     <div>sdds</div>
+     <div>sdds</div>蔡万概
   </div>
 </template>
 
