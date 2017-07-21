@@ -2,7 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <router-view></router-view>
-    爬爬ffdfdgffd你好你好好不能报告编号吗
+    爬爬ffdfdgffd你好你好好不能报告编号吗蔡万概喜欢吴宝琴
   </div>
 </template>
 
